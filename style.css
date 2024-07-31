@@ -1,0 +1,265 @@
+*{
+    padding: 0;
+    margin: 0;
+  
+}
+.default-ltr-cache-1d568uk {
+    width: 9.25rem;
+    height: 2.5rem;
+    color: rgb(13, 12, 12);
+    fill:red;
+    display: block;
+}
+.bcont{
+  
+    height:650px;
+    width: 1475px;
+    background-color: rgb(14, 2, 2);
+  
+
+    
+}
+
+.cont1{
+    background-image: url("net.jpg");
+    height:650px;
+    width: 1475px;
+    object-fit: cover;
+   
+    position:relative;
+    
+  
+   
+}
+ nav ul{
+    display:flex;
+    justify-content:space-between;
+align-items: center;
+list-style-type: none;
+padding: 0px 150px;
+padding-top: 40px;
+    
+}
+
+
+.li1{
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    color: rgb(244, 61, 61);
+    font-size: 60px;
+    font-weight: 400;
+   
+}
+.sign{
+    background-color: red;
+    color: white;
+
+    border-radius: 7px;
+    height: 51px;
+    width: 154px;
+}
+.sign1{
+    background-color: red;
+    color: white;
+
+    border-radius: 7px;
+    height: 30px;
+    width: 100px;
+}
+.eng{
+    background-color: rgb(49, 46, 46,0.8);
+    color: white;
+    border-radius: 10px;
+    height:40px;
+    width:140px; 
+}
+.sec1{
+    color:rgb(249, 244, 244);
+   justify-content: center;
+  margin:250px;
+  font-size: 50px;
+  font-weight: 200;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.cont2{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: black;
+   
+}
+.cont2 p{
+    color:white;
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 250px;
+
+}
+.sec2-p{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 81px;
+}
+.cont3{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    height:650px;
+    background-color: black;
+gap:7px;
+padding-left: 150px;
+    padding-right: 150px;
+}
+.sec3-p{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 81px;
+}
+.item{
+    height: 35px;
+    background-color: rgb(50, 52, 52);
+    color:whitesmoke;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+p{
+    color:aliceblue;
+}
+.cont4{
+    height:100px;
+    padding-left: 200px;
+    padding-top: 200px;
+    background-color: rgb(19, 18, 18);
+}
+button{
+    background-color: red;
+}
+.contl{
+    height: 200px;
+    color:white;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2px;
+    padding-bottom: 180px;
+    padding-top: 70px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    background-color: black;}
+
+.freq{
+    background-color: black;
+    color: white;
+  
+   padding-left: 50px;;
+    padding-bottom: 50px;
+  
+}
+li{
+    list-style-type:none ;
+    padding-left: 120px;
+    text-decoration: underline;
+    padding-bottom: 10px;
+  
+}
+.done{
+    height:200px;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:35px;
+   
+}
+.p1{
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+    font-style: normal;
+    font-weight:900;
+   color: white;
+    font-size:48px;
+    line-height: normal;
+}
+.para1{
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+    font-style: normal;
+    font-weight:900;
+   color: white;
+    font-size:48px;
+    line-height: normal;
+    background-color: black;
+    padding-left: 350px;
+    padding-bottom: 50px;
+    padding-top: 43px;
+
+}
+.p3{
+   
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+    font-style: normal;
+    font-weight:400;
+    color:aliceblue;
+    font-size: 20px;
+    line-height: normal;
+}
+.p2{
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+font-style: normal;
+font-weight:400;
+color:aliceblue;
+font-size: 24px;
+line-height: normal;
+
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    height: 46px;
+    width: 400px;
+    border-radius: 6px;
+    opacity: 0.6;
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+}
+.vdo_img{
+    position:relative;
+}
+.vdo{
+    position: absolute;
+ 
+    /* top: 72px; */
+    right: 391px;
+    height: 229px;
+    left: 75px;
+    width: 517px;
+}
+.vdo1{
+    position: absolute;
+    bottom: 140px;
+    right: 391px;
+    height: 229px;
+    left: 53px;
+    width: 517px;
+}
+.pos{
+    position: relative;
+    z-index: 10;;
+}
+.line{
+
+background-color: rgb(56, 55, 55);
+height: 12px;
+width:1471px;
+}
+.last{
+    padding-bottom: 60px;
+}
